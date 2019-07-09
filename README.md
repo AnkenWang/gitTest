@@ -3,3 +3,4 @@ a second change
 -- by dev
     - fix-B
     - feature-C
+    - feature-D
